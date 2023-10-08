@@ -1,5 +1,12 @@
-### Hi there 👋
+### Oi, eu sou a gabzanj 👋
 
+![Gabriela GitHub stats](https://github-readme-stats.vercel.app/api?username=gabzanj&show_icons=true&theme=dracula&count_private=true)
+
+## Tecnologias que eu uso no meu dia
+<div style="display: inline_block">
+  <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div><br/>
 <!--
 **gabzanj/gabzanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
